@@ -3,10 +3,10 @@
 
 <br/>
 
-🔵 Built **TinyGallery** — cloud-based image vault with Glassmorphism UI & Cloudinary API
-🟢 Built **Weather App** — real-time weather using JavaScript & public weather API
-🟣 Currently building **VisionAssist** — Android accessibility app with on-device AI
-🟡 Learning **Compiler Design**, Software Testing & System Programming
+🔵 Built **TinyGallery** — cloud-based image vault with Glassmorphism UI & Cloudinary API<br>
+🟢 Built **Weather App** — real-time weather using JavaScript & public weather API<br>
+🟣 Currently building **VisionAssist** — Android accessibility app with on-device AI<br>
+🟡 Learning **Compiler Design**, Software Testing & System Programming<br>
 🔴 Reach me at: **your@email.com**
 
 <br/>
