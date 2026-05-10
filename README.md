@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Simpy Rajput</h1>
-<h3 align="center">CS Student |Html,CSS,javascript,react| Prayagraj, India</h3>
+<h1 align="center">Hi, I'm Simpy singh</h1>
+<h3 align="center">CS Student |Html, CSS, javascript, react| Prayagraj, India</h3>
 
 <br/>
 
-- 🖼️ Built **TinyGallery** — a cloud-based image vault with Glassmorphism UI & Cloudinary API
-- 🌦️ Built **Weather App** — real-time weather using JavaScript & public weather API
-- 🔭 Currently building **VisionAssist** — Android accessibility app with on-device AI
-- 🌱 Learning **Compiler Design**, Software Testing ,DSA problem solving & System Programming
-- 📫 Reach me at: **[simpysingh214@gmail.com]**
+-  Built **TinyGallery** — a cloud-based image vault with Glassmorphism UI & Cloudinary API
+-  Built **Weather App** — real-time weather using JavaScript & public weather API
+-  Currently building **VisionAssist** — Android accessibility app with on-device AI
+-  Learning **Compiler Design**, Software Testing ,DSA problem solving & System Programming
+-  Reach me at: **[simpysingh214@gmail.com]**
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,19 +22,19 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🖼️ TinyGallery
+###  TinyGallery
 > A private aesthetic cloud-based image vault built with HTML, CSS (Glassmorphism) and JavaScript.
 > Uses **Cloudinary API** for permanent image storage with a vintage-themed aesthetic.
 
-### 🌦️ Weather App
+###  Weather App
 > Real-time weather app built with JavaScript.
 > Fetches live data from a public weather API and displays current conditions.
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajputsimpy916-code&show_icons=true&theme=tokyonight" />
