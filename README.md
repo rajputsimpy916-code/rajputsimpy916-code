@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simpy Rajput</h1>
-<h3 align="center">CS Student | JavaScript & Android Developer | Prayagraj, India</h3>
+<h3 align="center">CS Student |Html,CSS,javascript,react| Prayagraj, India</h3>
 
 <br/>
 
 - 🖼️ Built **TinyGallery** — a cloud-based image vault with Glassmorphism UI & Cloudinary API
 - 🌦️ Built **Weather App** — real-time weather using JavaScript & public weather API
 - 🔭 Currently building **VisionAssist** — Android accessibility app with on-device AI
-- 🌱 Learning **Compiler Design**, Software Testing & System Programming
-- 📫 Reach me at: **[your email here]**
+- 🌱 Learning **Compiler Design**, Software Testing ,DSA problem solving & System Programming
+- 📫 Reach me at: **[simpysingh214@gmail.com]**
 
 <br/>
 
