@@ -7,7 +7,7 @@
 🟢 Built **Weather App** — real-time weather using JavaScript & public weather API<br>
 🟣 Currently building **VisionAssist** — Android accessibility app with on-device AI<br>
 🟡 Learning **Compiler Design**, Software Testing & System Programming<br>
-🔴 Reach me at: **your@email.com**
+🔴 Reach me at: simpysingh214@gmail.com
 
 <br/>
 
