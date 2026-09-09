@@ -5,6 +5,8 @@
 
 🔵 Built **TinyGallery** — cloud-based image vault with Glassmorphism UI & Cloudinary API<br>
 🟢 Built **Weather App** — real-time weather using JavaScript & public weather API<br>
+   Built  **Fake job Detector-An end-to-end Machine Learning web application designed to analyze job postings and detect potential fraudulent 
+   listings using   FastAPI, React (Vite), and Scikit-learn.
 🟣 Currently building **VisionAssist** — Android accessibility app with on-device AI<br>
 🟡 Learning **Compiler Design**, Software Testing & System Programming<br>
 🔴 Reach me at: simpysingh214@gmail.com
